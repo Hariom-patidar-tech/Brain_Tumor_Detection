@@ -171,7 +171,9 @@ Best Model:
 ```
 best_model.keras
 ```
+
 Kaggle - https://www.kaggle.com/code/hariompatidarr/brain-tumor-detection
+
 ---
 
 ## 9. Prediction
@@ -185,6 +187,10 @@ The trained model performs:
 * Overlay visualization
 
 ---
+
+image - <img width="521" height="217" alt="image" src="https://github.com/user-attachments/assets/fe1a218f-7b11-4caf-b8e0-90029ebf738c" />
+<img width="490" height="363" alt="image" src="https://github.com/user-attachments/assets/1e3e7769-e74a-4d1e-a270-58da54b91cc1" />
+
 
 
 ---
