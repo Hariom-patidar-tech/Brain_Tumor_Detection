@@ -171,7 +171,7 @@ Best Model:
 ```
 best_model.keras
 ```
-
+Kaggle - https://www.kaggle.com/code/hariompatidarr/brain-tumor-detection
 ---
 
 ## 9. Prediction
