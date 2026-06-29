@@ -13,7 +13,7 @@ The application processes MRI slices, predicts tumor regions, and generates a se
 * Detect brain tumors from MRI images.
 * Segment tumor regions accurately.
 * Build an end-to-end deep learning pipeline.
-* Deploy the trained model using Streamlit.
+
 
 ---
 
@@ -41,7 +41,7 @@ Dataset contains:
 * OpenCV
 * Matplotlib
 * H5Py
-* Streamlit
+
 
 ---
 
@@ -73,9 +73,6 @@ Model Evaluation
         │
         ▼
 Save Trained Model
-        │
-        ▼
-Streamlit Deployment
         │
         ▼
 Tumor Prediction
@@ -189,89 +186,8 @@ The trained model performs:
 
 ---
 
-# 💻 Streamlit Application
-
-The project also includes a Streamlit-based web application.
-
-Features:
-
-* Upload MRI Image
-* Automatic Preprocessing
-* Tumor Prediction
-* Segmentation Mask
-* Overlay Visualization
-* User-friendly Interface
-
-Run locally:
-
-```bash
-streamlit run app.py
-```
 
 ---
-
-# 📁 Project Structure
-
-```
-Brain-Tumor-Detection/
-
-│── app.py
-│── brain_tumor_unet.keras
-│── best_model.keras
-│── requirements.txt
-│── README.md
-
-├── sample_data/
-
-├── notebooks/
-│     Brain_Tumor_Detection.ipynb
-
-├── images/
-
-└── outputs/
-```
-
----
-
-# 📦 Installation
-
-Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY
-```
-
-Move into the project folder
-
-```bash
-cd Brain-Tumor-Detection
-```
-
-Create virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate environment
-
-Windows
-
-```bash
-venv\Scripts\activate
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
 
 ---
 
@@ -297,7 +213,7 @@ Specialization:
 * Computer Vision
 * Medical Image Processing
 * Image Segmentation
-* Streamlit Deployment
+
 
 ---
 
